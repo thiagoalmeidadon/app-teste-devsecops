@@ -1,6 +1,6 @@
-key = 'ghsgdjfkidjhfuf123'
+ip = '33.9.8.10'
 
-if key == 'ghsgdjfkidjhfuf123':
+if ip == '33.9.8.10':
     print('passou')
 else:
     print('não passou')
