@@ -1,8 +1,7 @@
-import os
 
-ip = os.getenv('IP')
+ip = '3.5.20.22'
 
-if ip == '33.9.8.10':
+if ip == '3.5.20.22':
     print('passou')
 else:
     print('não passou')
